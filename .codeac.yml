@@ -4,6 +4,6 @@ tools:
   kubeval:
     files:
       - "*.yml"
-  kube-score:
+  kubeScore:
     files:
       - "*.yml"
