@@ -1,0 +1,9 @@
+version: '1'
+
+tools:
+  kubeval:
+    files:
+      - "*.yml"
+  kubeScore:
+    files:
+      - "*.yml"
